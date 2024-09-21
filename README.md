@@ -1,5 +1,4 @@
-## 
-Infloso Team  Task</br>
+## Infloso Team  Task</br>
  <div align='center'>
     <a href="https://auth-three-ashen.vercel.app"> 🌐 Live 🌐</a> </div> </br>
 
