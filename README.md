@@ -1,4 +1,5 @@
-## Greendzine Technologies Pvt Ltd </br>
+## 
+Infloso Team  Task</br>
  <div align='center'>
     <a href="https://auth-three-ashen.vercel.app"> 🌐 Live 🌐</a> </div> </br>
 
@@ -15,10 +16,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Overview  </br>
-Create a Recipe Book application using React.js that allows users to browse and view different 
-recipes. The app should include a list of recipes on the homepage, and when a user clicks on a 
-recipe, they should be taken to a separate page displaying the detailed recipe information 
-fetched from the Spoonacular Recipe API.
+This assignment assesses your proficiency in developing secure and efficient app using
+ReactJS, Node.js and JWT authentication. You&#39;ll create a robust frontend and backend for a
+web application&#39;s login and signup functionality, adhering to best practices. You will showcase
+your expertise in creating responsive and user-friendly screens by applying React concepts and
+best practices.
 
 # Setup And Testing 
 # server
